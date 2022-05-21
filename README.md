@@ -1,1 +1,1 @@
-# Ema John Simple Project.
+# Ema John Shop simple Ecommerce Project.
