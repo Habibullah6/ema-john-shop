@@ -32,7 +32,7 @@ const Login = () => {
           <input type="submit" value="submit" />
 
     </form> <br/>
-     <p>New to ema john? <NavLink to="/register">register now</NavLink></p>
+     <p>New to ema john website? <NavLink to="/register">register now</NavLink></p>
 
      <button className='btn-regular' onClick={handleGoogleLogin}>google sign in</button>
     </div>
